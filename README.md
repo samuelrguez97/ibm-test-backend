@@ -2,7 +2,7 @@
 API backend desarrollada en Spring Boot para el proceso de selección.
 
 Instrucciones:
-- Ejecutar todos los ficheros SQL en este orden:
+- Ejecutar fichero script.sql o todos los ficheros SQL localizados en resources en este orden:
 - CREATE_DATABASE.sql
 - CREATE_TABLE.sql
 - GENERATE_DATA.sql
