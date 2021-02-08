@@ -8,3 +8,5 @@ Instrucciones:
 - GENERATE_DATA.sql
 
 Posteriormente arrancar la clase Java main para iniciar el servidor API
+
+Samuel Rodríguez Aguilar
