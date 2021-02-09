@@ -15,7 +15,7 @@ import com.ibmtest.api.models.Supplier;
 import com.ibmtest.api.repositories.SupplierRepository;
 
 /*
- * Configuración de CORS para permitir la conexion entre servidores localhost react/srping
+ * Configuración de CORS para permitir la conexion entre servidores localhost react/spring
  */
 @Controller
 @RequestMapping(path = "/ibmtest")
