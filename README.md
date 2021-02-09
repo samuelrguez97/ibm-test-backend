@@ -7,6 +7,6 @@ Instrucciones:
 - CREATE_TABLE.sql
 - GENERATE_DATA.sql
 
-Posteriormente arrancar la clase Java main para iniciar el servidor API
+Posteriormente arrancar la clase Java main (/api/src/main/java/com/ibmtest/api/ApiApplication.java) para iniciar el servidor API
 
 Samuel Rodríguez Aguilar
